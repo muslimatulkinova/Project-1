@@ -98,47 +98,4 @@
     align-items: center;
 }
 
-.favorites1{
-    border: 2px dashed #414141;
-    border-radius: 30px;
-    height: 440px;
-    width: 30%;
-    margin-right: 100px;
-}
 
-.product-selected{
-    width: 70%;
-}
-
-.product-content{
-    display: flex;
-    justify-content: space-between;
-}
-
-.product-info{
-    display: flex;
-    justify-content: space-between;
-}
-
-.product-img img{
-    width: 80%;
-    height: 350px;
-}
-
-.product-name{
-    font-size: 50px;
-    line-height: 96px;
-    font-weight: 400;
-}
-
-.product-flex{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.product-price{
-    font-size: 50px;
-    font-weight: 400;
-    line-height: 96px;
-}
