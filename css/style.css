@@ -123,18 +123,32 @@
     padding-left: 190px;
 }
 
-.page-info{
+.page-content{
     display: flex;
-    justify-content: space-between;
 }
 
-.page-text{
+.page-info{
+    padding-left: 80px;
+    padding-top: 30px;
+}
+
+.page-text a{
     text-decoration: none;
     font-size: 48px;
     line-height: 96px;
     font-weight: 400;
-    padding-left: 80px;
     color: #414141;
-    padding-top: 40px;
 }
 
+.page-holder{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.page-price{
+    font-size: 48px;
+    line-height: 96px;
+    font-weight: 400;
+    color: #414141;
+}
